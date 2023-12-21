@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal1326&show_icons=true&locale=en&layout=compact" alt="nirmal1326" /></p>
+<p><img align="left" src="https://github-readme-status.vercel.app/api/top-langs?username=nirmal1326&show_icons=true&locale=en&layout=compact" alt="nirmal1326" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal1326&show_icons=true&locale=en" alt="nirmal1326" /></p>
 
