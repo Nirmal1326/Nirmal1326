@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Chandrasekar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal1326&label=Profile%20views&color=0e75b6&style=flat" alt="iammanjupriya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmal1326&label=Profile%20views&color=0e75b6&style=flat" alt="Nirmal" /> </p>
 <h3 align="center">A passionate frontend developer from India, Tamilnadu.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal1326" alt="nirmal1326" /></a> </p>
-
-- 🔭 I’m currently working on [Front-end Flutter Developer](Gateway Software Solutions)
-
-- 🌱 I’m currently learning **Full-Stack Developement**
-
-- 👨‍💻 All of my projects are available at [nirmal-chandrasekar.web.app](nirmal-chandrasekar.web.app)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, SQL, PostgreaSQL, and PHP.**
-
-- 📫 How to reach me **nirmalchandrasekar11@gmail.com**
-
-- 📄 Know about my experiences [https://nirmal-chandrasekar.web.app/static/media/Nirmal_Resume.29901c0911e549992c98.pdf](https://nirmal-chandrasekar.web.app/static/media/Nirmal_Resume.29901c0911e549992c98.pdf)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal1326&show_icons=true&locale=en&layout=compact" alt="nirmal1326" /></p>
 
